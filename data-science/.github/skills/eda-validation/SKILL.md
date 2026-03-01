@@ -5,7 +5,7 @@ description: EDAの実行と結果の要約(update_eda)、およびデータの�
 
 # EDA & Cross Validation Strategy
 
-このスキルは、データセットの特性を深く理解し、Kaggleにおいて信頼性の高いローカル評価環境（Out-of-Fold: OOFの計算など）を構築するためのものです。
+このスキルは、データセットの特性を深く理解し、外挿性の高い予測モデルを構築するために信頼性の高いローカル評価環境（Out-of-Fold: OOFの計算など）を構築するためのものです。
 
 ## When to use this skill
 
